@@ -47,6 +47,7 @@
 | [mdcat.py](./mdcat.py) | 终端 Markdown 美化输出 |
 | [dashboard.py](./tools/dashboard.py) | 生存状态仪表盘 |
 | [writing_helper.py](./tools/writing_helper.py) | 写作模板助手 |
+| [self_control.py](./tools/self_control.py) | 自我约束系统（防止焦虑循环） |
 
 ---
 
